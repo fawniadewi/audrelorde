@@ -1,0 +1,64 @@
+@font-face {
+    src: url("Starseeds.ttf");
+    font-family:Star;
+}
+body{
+    background-color: rgb(206, 0, 96);
+}
+.title{
+    font-family:Star;
+    font-size:70pt;
+    text-align: center;
+    letter-spacing: 10pt;
+    color: aliceblue;
+    position:relative;
+    top:60px;
+}
+.author{
+    font-family: "Space Mono";
+    font-weight:400;
+    font-style: oblique;
+    color:rgb(255, 255, 255);
+    position: relative;
+    top:50px;
+    left:500px;
+    border:2px solid white;
+    border-radius: 50px;
+    width:fit-content;
+    padding:10px 20px;
+}
+p{
+    font-family: "Space Mono";
+}
+.verse1{
+    font-size: 33pt;
+    color:aliceblue;
+    text-align: start;
+    position: relative;
+    top:100px;
+    margin:0px 30px;
+    padding-bottom: 30px;
+}
+.background{
+    font-size: 100pt;
+    color: rgb(123, 255, 123);
+    text-align: center;
+}
+.background1{
+    font-family:Star;
+    font-size: 500pt;
+    color: rgb(0, 46, 32);
+    text-align:center;
+    position: absolute;
+    top:57px;
+    left:600px;
+}
+.verse2{
+    font-size: 33pt;
+    color:rgb(227, 194, 255);
+    text-align: start;
+    position:absolute;
+    top:1015px;
+    margin:0px 30px;
+    padding-bottom: 30px;
+}

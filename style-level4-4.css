@@ -1,0 +1,50 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    font-family:"VT323";
+    color:whitesmoke;
+    text-transform: uppercase;
+    font-size: 50pt;
+    text-align: center;
+}
+div{
+    font-family:"Sedgwick Ave";
+    color:whitesmoke;
+    font-size: 24pt;
+    margin-left:10%;
+}
+.verse1{
+    line-height: 50pt;
+    text-align: center;
+    margin-right:10%;
+}
+.verse2{
+    line-height: 40pt;
+    text-align-last: justify;
+    margin-right:10%;
+}
+.verse3{
+    position: absolute;
+    top:1100px;
+    left:360px;
+    text-align: center;
+}
+.verse4{
+    position: absolute;
+    top:1090px;
+    right:10%;
+    text-align: right;
+    padding-bottom:10%;
+}
+.verse5{
+    position: absolute;
+    top:1110px;
+    left:360px;
+    text-align: center;
+    line-height: 2pt;
+}
+h2{
+    font-size: 40pt;
+    text-align:center;
+}

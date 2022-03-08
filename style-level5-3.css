@@ -1,0 +1,193 @@
+.square {
+    height:120vh;
+    width: 100vw;
+    background: rgba(0, 195, 255, 0.575);
+}
+.scale-in-ver-top {
+	-webkit-animation: scale-in-ver-top 8s cubic-bezier(0.470, 0.000, 0.745, 0.715) infinite alternate both;
+	        animation: scale-in-ver-top 8s cubic-bezier(0.470, 0.000, 0.745, 0.715) infinite alternate both;
+}
+ @-webkit-keyframes scale-in-ver-top {
+    0% {
+      -webkit-transform: scaleY(0);
+              transform: scaleY(0);
+      -webkit-transform-origin: 100% 0%;
+              transform-origin: 100% 0%;
+      opacity: 1;
+    }
+    100% {
+      -webkit-transform: scaleY(1);
+              transform: scaleY(1);
+      -webkit-transform-origin: 100% 0%;
+              transform-origin: 100% 0%;
+      opacity: 1;
+    }
+  }
+  @keyframes scale-in-ver-top {
+    0% {
+      -webkit-transform: scaleY(0);
+              transform: scaleY(0);
+      -webkit-transform-origin: 100% 0%;
+              transform-origin: 100% 0%;
+      opacity: 1;
+    }
+    100% {
+      -webkit-transform: scaleY(1);
+              transform: scaleY(1);
+      -webkit-transform-origin: 100% 0%;
+              transform-origin: 100% 0%;
+      opacity: 1;
+    }
+  }  
+  .slide-in-right {
+	-webkit-animation: slide-in-right 10s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+	        animation: slide-in-right 10s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+}
+ @-webkit-keyframes slide-in-right {
+    0% {
+      -webkit-transform: translateX(1000px);
+              transform: translateX(1000px);
+      opacity: 0;
+    }
+    100% {
+      -webkit-transform: translateX(0);
+              transform: translateX(0);
+      opacity: 1;
+    }
+  }
+  @keyframes slide-in-right {
+    0% {
+      -webkit-transform: translateX(1000px);
+              transform: translateX(1000px);
+      opacity: 0;
+    }
+    100% {
+      -webkit-transform: translateX(0);
+              transform: translateX(0);
+      opacity: 1;
+    }
+  }
+  .clouds{
+      position: absolute;
+      top:10%;
+      left:70vw;
+  }
+  .clouds1{
+    position: absolute;
+    top:30%;
+    left:10vw;
+}
+.slide-in-left {
+	-webkit-animation: slide-in-left 10s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+	        animation: slide-in-left 10s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+}
+@-webkit-keyframes slide-in-left {
+  0% {
+    -webkit-transform: translateX(-1000px);
+            transform: translateX(-1000px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+    opacity: 1;
+  }
+}
+@keyframes slide-in-left {
+  0% {
+    -webkit-transform: translateX(-1000px);
+            transform: translateX(-1000px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+    opacity: 1;
+  }
+}
+@font-face {
+    font-family: orelo;
+    src: url(Orelo\ SemiWide\ DemiBold.ttf);
+}
+.title{
+    font-family: orelo;
+    font-size: 50pt;
+    text-align: center;
+    width:20%;
+    line-height: 65px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    position:absolute;
+    top:25%;
+    left:40%;
+}
+.author{
+    font-family: orelo;
+    font-size: 16pt;
+    text-align: center;
+    line-height: 65px;
+    position:absolute;
+    top:73%;
+    left:46%;
+    text-transform: lowercase;
+}
+.vector{
+    background-image: url("Vector\ 1.png");
+    height:206px;
+    width:227px;
+    font-size:240px;
+    color:rgba(255, 255, 255, 0);
+}
+.square1{
+    height:62vh;
+    width:21%;
+    border: 3px solid rgba(162, 0, 255, 0.404);
+    border-radius: 20px;
+    position:absolute;
+    top:22%;
+    left:39%;
+    overflow:hide;
+    background-color: rgba(255, 238, 0, 0.068);
+}
+p{
+    font-family: "Space Mono";
+    font-weight: 400;
+    font-size: 18px;
+    position:absolute;
+    top:2vh;
+    bottom:10vh;
+    animation-duration: 7s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+span{
+    font-family: orelo;
+    font-weight: 800;
+    font-size: 16px;
+    position:relative;
+    bottom:10pt;
+    line-height: 40px;
+}
+@keyframes slidein {
+    from {
+      margin-left: 58%;
+      width: 80%;
+    }
+  
+    to {
+      margin-left: 6%;
+      width: 80%;
+    }
+  }  
+  .vector1{
+    background-image: url("Vector\ 2.png");
+    height:66px;
+    width:93%;
+    font-size:63px;
+    color:rgba(255, 255, 255, 0);
+    position:absolute;
+    bottom:-26vh;
+    left:8vh;
+}

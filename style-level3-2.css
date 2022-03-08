@@ -1,0 +1,41 @@
+.header{
+    width:max-content;
+    padding-right:5%;
+    position:absolute;
+    top:5%;
+    right:5%;
+    left:5%;
+}
+.color-block{
+    width:fit-content;
+    position:absolute;
+    bottom:10%;
+    left:5%;
+    color:#000000 ;
+    padding:12px 30px;
+    border:2px solid #000000;
+    background-color: #f2ebfb;
+    border-radius:30px;
+}
+.title{
+    position:absolute;
+    bottom:65%;
+    left:8.3%;
+}
+.verse1{
+    position: absolute;
+    bottom:10%;
+    left:40%;
+}
+.verse2{
+    position:absolute;
+    bottom:10%;
+    left:85%;
+    width:500px;
+}
+.verse3{
+    position:absolute;
+    bottom:10%;
+    left:1600px;
+    width:150px;
+}

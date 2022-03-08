@@ -1,0 +1,264 @@
+.author{
+    position: relative;
+    right:5%;
+    top:50px;
+    float:right;
+    padding:5px 10px;
+    border: 2px solid;
+    border-radius: 10px;
+    background-color: #ebfbef;
+}
+.header{
+    width:min-content;
+    position:absolute;
+    top:30px;
+    right:5%;
+    left:5%;
+    border-bottom:5px solid black;
+}
+.line1{
+    width:160px;
+    position:absolute;
+    left:5%;
+    top:210px;
+}
+.header1{
+    width:min-content;
+    position:absolute;
+    top:220px;
+    right:5%;
+    left:20%;
+    border-bottom:5px solid black;
+}
+.line2{
+    width:160px;
+    position:absolute;
+    left:20%;
+    top:400px;
+}
+.header2{
+    width:min-content;
+    position:absolute;
+    top:420px;
+    right:5%;
+    left:35%;
+    border-bottom:5px solid black;
+}
+.line3{
+    width:160px;
+    position:absolute;
+    left:35%;
+    top:600px;
+}
+.header3{
+    width:min-content;
+    position:absolute;
+    top:620px;
+    right:5%;
+    left:50%;
+    border-bottom:5px solid black;
+}
+.line4{
+    width:160px;
+    position:absolute;
+    left:50%;
+    top:800px;
+}
+.header4{
+    width:min-content;
+    position:absolute;
+    top:820px;
+    right:5%;
+    left:65%;
+    border-bottom:5px solid black;
+}
+.line5{
+    width:160px;
+    position:absolute;
+    left:65%;
+    top:1000px;
+}
+.header5{
+    width:min-content;
+    position:absolute;
+    top:1020px;
+    right:5%;
+    left:80%;
+    border-bottom:5px solid black;
+}
+.line6{
+    width:160px;
+    position:absolute;
+    left:80%;
+    top:1200px;
+}
+.header6{
+    width:min-content;
+    position:absolute;
+    top:1220px;
+    right:5%;
+    left:95%;
+    border-bottom:5px solid black;
+}
+.line7{
+    width:160px;
+    position:absolute;
+    left:95%;
+    top:1400px;
+}
+.header7{
+    width:min-content;
+    position:absolute;
+    top:1420px;
+    right:5%;
+    left:110%;
+    border-bottom:5px solid black;
+}
+.line8{
+    width:160px;
+    position:absolute;
+    left:110%;
+    top:1600px;
+}
+.header8{
+    width:min-content;
+    position:absolute;
+    top:1620px;
+    right:5%;
+    left:125%;
+    border-bottom:5px solid black;
+}
+.line9{
+    width:160px;
+    position:absolute;
+    left:125%;
+    top:1800px;
+}
+.header9{
+    width:min-content;
+    position:absolute;
+    top:1820px;
+    right:5%;
+    left:140%;
+    border-bottom:5px solid black;
+}
+.line10{
+    width:160px;
+    position:absolute;
+    left:140%;
+    top:2000px;
+}
+.header10{
+    width:min-content;
+    position:absolute;
+    top:2020px;
+    right:5%;
+    left:155%;
+    border-bottom:5px solid black;
+}
+.line11{
+    width:160px;
+    position:absolute;
+    left:155%;
+    top:2200px;
+}
+.header11{
+    width:min-content;
+    position:absolute;
+    top:2220px;
+    right:5%;
+    left:170%;
+    border-bottom:5px solid black;
+}
+.line12{
+    width:160px;
+    position:absolute;
+    left:170%;
+    top:2400px;
+}
+.header12{
+    width:min-content;
+    position:absolute;
+    top:2420px;
+    right:5%;
+    left:185%;
+    border-bottom:5px solid black;
+}
+.line13{
+    width:160px;
+    position:absolute;
+    left:185%;
+    top:2600px;
+}
+.header13{
+    width:min-content;
+    position:absolute;
+    top:2620px;
+    right:5%;
+    left:200%;
+    border-bottom:5px solid black;
+}
+.line14{
+    width:160px;
+    position:absolute;
+    left:200%;
+    top:2800px;
+}
+.header14{
+    width:min-content;
+    position:absolute;
+    top:2820px;
+    right:5%;
+    left:215%;
+    border-bottom:5px solid black;
+}
+.line15{
+    width:160px;
+    position:absolute;
+    left:215%;
+    top:3000px;
+}
+.header15{
+    width:min-content;
+    position:absolute;
+    top:3020px;
+    right:5%;
+    left:230%;
+    border-bottom:5px solid black;
+}
+.line16{
+    width:160px;
+    position:absolute;
+    left:230%;
+    top:3200px;
+}
+.header16{
+    width:min-content;
+    position:absolute;
+    top:3220px;
+    right:5%;
+    left:245%;
+    border-bottom:5px solid black;
+}
+.line17{
+    width:160px;
+    position:absolute;
+    left:245%;
+    top:3400px;
+}
+.header17{
+    width:min-content;
+    position:absolute;
+    top:3420px;
+    right:5%;
+    left:260%;
+    border-bottom:5px solid black;
+}
+.line18{
+    width:160px;
+    position:absolute;
+    left:260%;
+    top:3600px;
+    border-right:60px solid white;
+    border-bottom:50px solid white;
+}

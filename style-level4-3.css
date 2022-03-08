@@ -1,0 +1,38 @@
+body{
+    background-color: yellow;
+    font-family:"Jost";
+    padding-left: 30px;
+}
+div{
+    font-weight:800;
+    font-size: 94pt;
+    text-transform:uppercase;
+}
+.verse1{
+    width:33%;
+    font-weight:200;
+    text-transform:lowercase;
+    font-size: 15pt;
+}
+.verse2{
+    width:33%;
+    font-weight:400;
+    text-transform:lowercase;
+    font-size: 15pt;
+    position:absolute;
+    top:550px;
+    left:450px;
+    padding-bottom: 30px;
+    border-bottom: 10px dashed rgb(255, 0, 136);
+    text-align: center;
+}
+.verse3{
+    width:33%;
+    font-weight:800;
+    text-transform:lowercase;
+    font-size: 15pt;
+    position:absolute;
+    top:550px;
+    left:800px;
+    text-align: right;
+}

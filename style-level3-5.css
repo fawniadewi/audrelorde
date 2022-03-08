@@ -1,0 +1,75 @@
+body{
+    background-color:black;
+}
+.title{
+    position:absolute;
+    top:10%;
+    left:53%;
+    padding:10px 20px;
+    margin:10px;
+    border:1px double rgb(0, 255, 13);
+    border-radius: 30px;
+    background-color:#000000;
+    color:#ffffff;
+}
+.title1{
+    position:absolute;
+    top:25%;
+    left:25%;
+    padding:10px 20px;
+    margin:10px;
+    border:1px solid rgb(255, 255, 255);
+    border-radius: 30px;
+    background-color:#000000;
+    color:#ffffff;
+}
+.poem{
+    width:30%;
+    position:absolute;
+    top:40%;
+    left:30%;
+    padding:30px 60px;
+    margin:10px;
+    border:1px solid rgb(132, 0, 255);
+    border-radius: 30px;
+    background-color:#000000;
+    color:#ffffff;
+}
+.circle{
+    position:absolute;
+    top:30%;
+    left:5%;
+    padding:20px 50px;
+    border:1px solid #3c00ff;
+    border-radius: 100%;
+    color:#ffffff;
+}
+.circle1{
+    position:absolute;
+    top:36%;
+    left:5%;
+    padding:20px 50px;
+    border:1px solid rgb(247, 0, 255);
+    border-radius: 100%;
+    color:#ffffff;
+}
+.circle2{
+    position:absolute;
+    top:33%;
+    left:5%;
+    padding:20px 50px;
+    border:1px solid rgb(0, 255, 55);
+    border-radius: 100%;
+    color:#ffffff;
+}
+.tags{
+    position:absolute;
+    top:73%;
+    left:75%;
+    right:5%;
+    padding:10px 30px;
+    border:2px rgb(247, 0, 255);
+    border-style:double;
+    border-radius:30px;
+    color:#ffffff;
+}
